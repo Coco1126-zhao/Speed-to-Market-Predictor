@@ -5,7 +5,7 @@
 
 ## The Problem
 
-Only **1 in 6 projects** that enters a US interconnection queue ever reaches commercial operation. The rest withdraw — often after years of costly development work. For asset developers, investors, and infrastructure funds evaluating a pipeline of projects, the central question is not whether a project *can* be permitted, but whether it *will* be built, and on what timeline.
+Only **1 in 6 projects** that enters a US interconnection queue ever reaches commercial operation. The rest withdraw often after years of costly development work. For asset developers, investors, and infrastructure funds evaluating a pipeline of projects, the central question is not whether a project *can* be permitted, but whether it *will* be built, and on what timeline.
 
 This tool uses 24 years of historical interconnection queue data to answer that question quantitatively — at the time of application submission, before any study costs are incurred.
 
@@ -207,4 +207,4 @@ For an interactive walkthrough, the pipeline was developed and validated in Goog
 
 ## AI Workflow
 
-This project was built with Claude (Anthropic) as a coding and analysis collaborator across the full pipeline — from data exploration and feature engineering decisions through to model evaluation and README narrative. Claude was used to accelerate code iteration, catch bugs (index alignment errors in evaluation, duplicate column issues in SHAP profiling), and stress-test analytical interpretations against domain knowledge. The energy market framing, feature design choices (e.g. `has_proposed_date` as a commitment signal, policy era binary flags), and all findings interpretations are my own.
+This project was built with Claude as a coding and analysis collaborator. Claude was used to accelerate code iteration, catch bugs (index alignment errors in evaluation, duplicate column issues in SHAP profiling), and stress-test analytical interpretations against domain knowledge. The energy market framing, feature design choices (e.g. `has_proposed_date` as a commitment signal, policy era binary flags), and all findings interpretations are my own.
