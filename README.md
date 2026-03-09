@@ -150,7 +150,7 @@ AUC-ROC of 0.851 means the model correctly ranks 85% of completed vs withdrawn p
 
 ## Data
 
-**Source:** [LBNL Interconnection Queue ("Queued Up"), 2024 release](https://emp.lbl.gov/publications/queued-tracking-progress-clean)
+**Source:** [LBNL Interconnection Queue ("Queued Up"), 2024 release](https://emp.lbl.gov/publications/queued-2025-edition-characteristics)
 
 See `data/downloading from LBNL` for instructions. The raw Excel file is not committed to this repo due to size.
 
