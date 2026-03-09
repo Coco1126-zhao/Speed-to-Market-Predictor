@@ -1,7 +1,7 @@
 # Project Viability & Speed-to-Market Predictor
 ### *Which renewable energy projects actually get built — and how fast?*
 
-> **Built for the Modo Energy Market Analyst take-home, March 2026**
+> **Built for the Modo Energy Market Analyst Open Tech Challenge, March 2026**
 
 ---
 
