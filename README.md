@@ -91,7 +91,7 @@ The completion rate by ISO below shows the model's predicted rates against actua
 
 ---
 
-### 4. What actually drives completion probability: plain English
+### 4. What actually drives completion probability
 
 The SHAP beeswarm below is the most information-dense chart in this analysis. Here is how to read it: each dot is one project, its horizontal position shows how much that feature pushed completion probability up (right) or down (left), and its colour shows whether the project had a high (red) or low (blue) value for that feature.
 
